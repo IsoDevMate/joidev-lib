@@ -1,0 +1,10 @@
+
+###
+POST http://localhost:8090/test
+Content-Type: application/json
+
+{
+    "email": "barackouma@gmail.com",
+    "phone": "076-978-4198",
+    "birthday": "2023-04-04"
+}
